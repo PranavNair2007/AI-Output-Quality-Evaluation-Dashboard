@@ -2,7 +2,7 @@
 
 A single-page web app for evaluating AI-generated responses on four quality dimensions and tracking results over time.
 
-**Live demo:** `https://YOUR-USERNAME.github.io/ai-eval-dashboard/` (replace after enabling GitHub Pages)
+**Live demo:** `https://pranavnair2007.github.io/AI-Output-Quality-Evaluation-Dashboard/` (replace after enabling GitHub Pages)
 
 ## Quality dimensions
 
